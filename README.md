@@ -11,7 +11,7 @@ durante il percorso Full-Stack Developer di EPICODE (maggio 2026).
 - Dettaglio notizie, sezione giochi
 - Navbar e layout responsive
 
-I miei commit: [link alla lista dei tuoi commit]
+I miei commit: [https://github.com/biagiocota24/linkedin-clone-buildweek/commits?author=biagiocota24]
 
 ## Team
 [Roberto Visconti](https://github.com/RobertoVisconti) · [Roberto Cafagna](https://github.com/cafagnarob) · [Davide Pan](https://github.com/Vidied) · [Daniele Bulgaru](https://github.com/Vidied) · [Biagio Cota](https://github.com/biagiocota24)
