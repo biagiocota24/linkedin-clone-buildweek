@@ -14,7 +14,7 @@ durante il percorso Full-Stack Developer di EPICODE (maggio 2026).
 I miei commit: [link alla lista dei tuoi commit]
 
 ## Team
-[Roberto Visconti](https://github.com/RobertoVisconti) · [Roberto Cafagna](https://github.com/cafagnarob) · [Davide Pan](https://github.com/Vidied) · [Daniele Bulgaru](https://github.com/Vidied) · Biagio Cota
+[Roberto Visconti](https://github.com/RobertoVisconti) · [Roberto Cafagna](https://github.com/cafagnarob) · [Davide Pan](https://github.com/Vidied) · [Daniele Bulgaru](https://github.com/Vidied) · [Biagio Cota](https://github.com/biagiocota24)
 
 ## Nota
 Progetto didattico: le API fornite dal corso non sono più attive,
