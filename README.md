@@ -20,5 +20,3 @@ I miei commit: [https://github.com/biagiocota24/linkedin-clone-buildweek/commits
 Progetto didattico: le API fornite dal corso non sono più attive,
 quindi l'app non è più eseguibile con dati reali.
 
-## Screenshot
-[2–3 immagini]
